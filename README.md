@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a web developer with a strong background in po
 
 - Front-end: JavaScript, React, Redux, Bootstrap 4
 - Back-end: Node.js, Express.js, PostgreSQL, Knex.js
-- Other Skills: ES6, RESTful APIs
+- Other Skills: ES6, RESTful APIs, C and python
 - AI & Data: Python, Pandas, NumPy, Metasploit
 
 ## 🌱 Currently Learning
