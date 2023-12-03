@@ -18,9 +18,6 @@ I'm always eager to expand my skill set. Currently, I'm diving deeper into wed d
 
 My primary goal is to contribute to meaningful projects, collaborate with fellow developers, and continuously enhance my abilities. I'm actively seeking job opportunities in the web development and AI domains.
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true)
 
 ## 📫 Let's Connect
 
