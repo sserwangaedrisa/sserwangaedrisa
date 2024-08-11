@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm SSERWANGA EDIRISA (https://github.com/sserwangaedrisa)
 
-Welcome to my GitHub profile! I'm a web developer with a strong background in  engineering. I've had the privilege to learn from reputable communities like the Zero to Mastery (ZTM) community, led by senior software developer Andrei Neagoie, and FreeCodeCamp. These experiences have equipped me with the skills needed to excel in the field.
+Welcome to my GitHub profile! I'm a web developer with a strong background in  engineering. I've had the privilege to learn from reputable communities like Havard CS50,  Zero to Mastery (ZTM) community led by senior software developer Andrei Neagoie, and FreeCodeCamp. These experiences have equipped me with the skills needed to excel in the field.
 
 
 ## 🔧 Technologies & Tools
