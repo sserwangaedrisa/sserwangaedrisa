@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a web developer with a strong background in  e
 ## 🔧 Technologies & Tools
 
 - Front-end: JavaScript, React, Redux, Bootstrap 4
-- Back-end: Node.js, Express.js, PostgreSQL, Knex.js
+- Back-end: Node.js, Express.js, PostgreSQL, Knex.js , Flask
 - Other Skills: ES6, RESTful APIs, C and python
 - AI & Data: Python, Pandas, NumPy, Metasploit
 
