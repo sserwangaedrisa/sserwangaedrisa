@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a web developer with a strong background in  e
 
 ## 🌱 Currently Learning
 
-I'm always eager to expand my skill set. Currently, I'm diving deeper into wed development with PYTHON.
+I'm always eager to expand my skill set. Currently, I'm diving deeper into wed development with PYTHON and Django.
 
 ## 🚀 Goals
 
